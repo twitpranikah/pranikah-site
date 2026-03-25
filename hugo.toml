@@ -1,0 +1,13 @@
+baseURL = 'https://blog.pranikah.org/'
+locale = 'en-us'
+title = 'PRANIKAH'
+theme = "hugo-xmag"
+
+[params]
+  subtitle = "Selamatkan Pernikahan Sebelum Dimulai"
+  description = "Berita, tips, dan artikel seputar pranikah"
+  
+[params.banner]
+src = "images/logo.png"
+alt = "PRANIKAH"
+  
