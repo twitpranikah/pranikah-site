@@ -177,21 +177,3 @@ tr:nth-child(even) { background: #eee }
 p, ul, ol, h1, h2, h3, h4, h5, h6 {
     overflow-wrap: break-word;
 }
-
-.subtitle {
-  display: block;
-  text-align: center;
-  font-size: 1.5em;
-  font-weight: 600;
-  text-transform: none;
-  color: #333;
-  margin-top: 25px;   /* jarak lebih besar dari judul utama */
-  margin-bottom: 10px; /* jarak ke elemen berikutnya (tanggal/pagination) */
-}
-.banner img {
-  max-height: 120px; /* sesuai tinggi */
-  width: auto;       /* biar proporsional */
-  display: block;
-  margin: 0 auto;    /* rata tengah */
-  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
-}
