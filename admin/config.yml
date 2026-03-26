@@ -1,0 +1,23 @@
+# Mengaktifkan mode lokal
+local_backend: true
+
+# Konfigurasi standar
+backend:
+  name: git-gateway # Tetap biarkan begini untuk persiapan jika nanti ingin online
+  branch: main 
+
+media_folder: "static/images" # Tempat menyimpan gambar yang diupload
+public_folder: "/images"
+
+collections:
+  - name: "post"
+    label: "Posts"
+    folder: "content/post"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
