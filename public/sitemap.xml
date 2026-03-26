@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/%23pengkhiatanan-%23selingkuh-%23percaya-%23pasangan-%23perkawinan-%23pacaran-%23konflik/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/psikologi/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2026-03-26-saya-takut/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-03-26T21:26:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2026-03-26-lama-pacaran/</loc>
+    <lastmod>2026-03-26T20:52:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%23modalcinta/</loc>
+    <lastmod>2026-03-26T20:21:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/2026-03-26-modal-cinta-dalam-hubungan-cukup-gak/</loc>
+    <lastmod>2026-03-26T20:21:00+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/%23pacaran/</loc>
   </url>
 </urlset>
